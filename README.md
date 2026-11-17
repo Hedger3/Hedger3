@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Tianchen 👋
 
-<!--
-**Hedger3/Hedger3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at the University of Groningen, with a mathematics background from the University of Manchester.
+I'm interested in backend engineering and machine learning for biomedical research.
 
-Here are some ideas to get you started:
+- 🔬 Research intern at UMCG, working on generative models for synthetic transcriptomics data
+- 🛠️ Building [PhoneShop](), a backend project with (Java / Spring Boot / PostgreSQL / Docker)
+- 🌱 Contributing to open source (Zulip, Apache Hudi)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured project
+**[PhoneShop]()**: 
+
+### Open source contributions
+- [](PR )
+- ()
+
+### Tech stack
+Java · Python · C/C++ · SQL · ()
+
+### Contact
+[LinkedIn](www.linkedin.com/in/tianchenyang)
